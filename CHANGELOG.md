@@ -1,3 +1,9 @@
+## 0.4.1 (2026-08-05)
+
+- fix(renderer): adjust margin for messages near end of line ([#97](https://github.com/johnyob/grace/pull/97))
+- fix(renderer): remove extra space in trailing labels ([#98](https://github.com/johnyob/grace/pull/98))
+- fix(renderer): error recovery on invalid UTF-8 strings ([#99](https://github.com/johnyob/grace/pull/99))
+
 ## 0.4.0 (2026-07-22)
 
 - feat(renderer): add boxing to trailing labels ([#92](https://github.com/johnyob/grace/pull/92))
